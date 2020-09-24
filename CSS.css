@@ -1,0 +1,18 @@
+body{
+    background-color:  #a9d7e9;
+}
+.wow{
+background-color: #f3f3f3;
+border-radius: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+input[type=text], select, textarea {
+    width: 20%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-left: 10px;
+    text-align: 20px;
+  }
